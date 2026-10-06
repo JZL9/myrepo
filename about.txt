@@ -1,0 +1,10 @@
+I'm Fahad Al-Otaibi, a network engineer and developer based in Saudi Arabia. I build automation and data-processing tools that make technical work faster and more reliable.
+
+Projects:
+- TAHAKOM SYSTEM: a Python Windows GUI tool that automates extraction and analysis of traffic camera session data. It includes reverse engineering of a binary file format (about 1,400x faster than OCR), session report generation, missing-detection tracking, a SQLite database backend, and a light/dark mode interface.
+
+Languages and tools: Python, SQL, HTML, CSS, SQLite, Git.
+
+Education: Diploma in Network Systems Management, Taif University.
+
+Website: https://jzl9.github.io/FSK
